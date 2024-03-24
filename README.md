@@ -26,5 +26,3 @@ To run the Blogly project on your local machine, follow these steps:
 7. Open your web browser and visit http://localhost:5000/ to access the platform.
 
 That's it! You're now ready to explore and interact with the Blogly project.
-
-For more information, check out our GitHub repository: https://github.com/pattherogue/One-to-Many---Blogly
